@@ -1,0 +1,31 @@
+ body {
+     background-color: #F4F4F4;
+ }
+ /*start login form*/
+ 
+ .login {
+     width: 400px;
+     margin: 100px auto;
+ }
+ 
+ .login input {
+     margin-bottom: 15px;
+ }
+ 
+ h1 {
+     font-size: 150px;
+     color: red;
+ }
+ 
+ .login .form-control {
+     background-color: #EAEAEA;
+ }
+ /* .login .btn {
+     background-color: #00de1e;
+ } */
+ 
+ .h1 {
+     font-size: 180px;
+     text-align: center;
+ }
+ /*end login form*/
